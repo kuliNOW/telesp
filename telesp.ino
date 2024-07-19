@@ -13,7 +13,7 @@
 #define FIREBASE_API_KEY ""
 #define FIREBASE_URL ""
 #define FIREBASE_EMAIL ""
-#define FIREBASE_PASS ""
+#define FIREBASE_PASS """
 
 const unsigned long BOT_MTBS = 1000;
 unsigned long botLastTime;
