@@ -1,2 +1,8 @@
 # telesp
-Project kontrol dan monitoring esp32 by telegram
+Project bot manajemen karyawan 
+
+telegram
+
+firebase
+
+esp32
