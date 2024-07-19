@@ -3,6 +3,6 @@ Project bot manajemen karyawan
 
 telegram
 
-firebase
+firebase CRUD
 
 esp32
